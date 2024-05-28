@@ -1,0 +1,17 @@
+html{
+    background-color:whitesmoke;
+   
+}
+
+.font-family{
+    font-family: "Poppins", sans-serif;
+}
+
+.font-size{
+    font-size: 12px;
+} 
+*{
+    font-size: small;
+}
+
+
